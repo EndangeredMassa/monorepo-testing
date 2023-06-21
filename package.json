@@ -1,0 +1,9 @@
+{
+  "name": "vercel-cli-monorepo-test",
+  "scripts": {
+    "build": "turbo run build"
+  },
+  "dependencies": {
+    "turbo": "^1.5.3"
+  }
+}
